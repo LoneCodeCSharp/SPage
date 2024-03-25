@@ -1,0 +1,9 @@
+﻿<Application x:Class="SPage.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SPage"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="NotoSans">Font/#Serifiqo 4F Free Capitals</FontFamily>
+    </Application.Resources>
+</Application>
